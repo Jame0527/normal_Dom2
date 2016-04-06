@@ -1,0 +1,22 @@
+*{margin:0;padding:0;}
+ul li{list-style: none;}
+a{text-decoration: none;border:none}
+input{border:none}
+.left{float:left}
+.right{float:right;}
+
+
+
+.box{margin:0 auto;width:940px;}
+
+.box1{height:50px;background:red;line-height: 50px;}
+.box1 h3{margin-right:650px}
+.box1 input{margin-top:16px;width:20px;height:20px;border-radius: 20px;text-align: center;line-height: 20px;}
+.box1 .topnav{width:120px;margin-top:16px}
+.box1 .topnav li{float:left;width:20px;background:#fff;border-radius: 20px;height:20px;margin-left:15px}
+.box1 .topnav .backColor{background:yellow}
+.box2{overflow: hidden;height:400px;border:1px solid #000;position: relative;}
+.box2 .scrollUl{width:6000px;position: absolute;}
+.scrollUl li{float:left;width:224px;margin-left:10px}
+
+
